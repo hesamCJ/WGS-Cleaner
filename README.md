@@ -48,7 +48,6 @@ Use on non-critical systems first. Always create a **System Restore Point** befo
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CleanerPro.git
 cd CleanerPro
 python -m venv .venv
 .venv\Scripts\activate
