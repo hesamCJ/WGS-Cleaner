@@ -49,7 +49,7 @@ Cleaner Pro در حال حاضر در **نسخه بتا عمومی** است.
 ## 🚀 راه‌اندازی سریع
 
 ```bash
-cd CleanerPro
+cd WGS-Cleaner-main
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
@@ -74,7 +74,7 @@ textCleanerPro/
 این نرم‌افزار می‌تواند رجیستری را تغییر دهد، فایل حذف کند و سرویس‌ها را کنترل کند.
 مسئولیت تأییدها با خود شماست.
 سازنده مسئول از دست رفتن داده یا مشکل سیستم نیست.
-فقط در صورت نیاز با دسترسی Administrator اجرا کنید. ترجیحاً روی VM یا سیستم فرعی تست کنید.
+فقط در صورت نیاز با دسترسی Administrator اجرا کنید.عی تست کنید.
 
 👨‍💻 سازنده
 MRGhesam
