@@ -73,7 +73,7 @@ textCleanerPro/
 This software can modify the registry, delete files, and control services.
 You are responsible for what you confirm.
 The author is not liable for data loss or system issues.
-Run as Administrator only when needed. Prefer testing on a VM or secondary PC.
+Run as Administrator only when needed.
 
 👨‍💻 Author
 MRGhesam
