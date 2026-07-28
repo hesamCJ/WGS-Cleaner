@@ -49,7 +49,6 @@ Cleaner Pro در حال حاضر در **نسخه بتا عمومی** است.
 ## 🚀 راه‌اندازی سریع
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CleanerPro.git
 cd CleanerPro
 python -m venv .venv
 .venv\Scripts\activate
