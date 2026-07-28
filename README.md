@@ -48,7 +48,7 @@ Use on non-critical systems first. Always create a **System Restore Point** befo
 ## 🚀 Quick start
 
 ```bash
-cd CleanerPro
+cd WGS-Cleaner-main
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
